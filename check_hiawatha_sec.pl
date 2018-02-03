@@ -24,7 +24,7 @@
 # for banned IPs and so on
 #
 # Author: solacol
-# Version: 0.3
+# Version: 1.0
 #
 #####################################################
 #
